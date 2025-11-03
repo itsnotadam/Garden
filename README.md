@@ -186,7 +186,3 @@ git pull origin main
 ## 📝 License
 
 This project is for educational purposes. Use responsibly and in accordance with GitHub's Terms of Service.
-
-**Happy Coding!** 🚀
-
-*Remember: The real value is in actual code contributions, not green squares. Use this tool responsibly!*
