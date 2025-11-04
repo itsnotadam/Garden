@@ -134,8 +134,8 @@ Wait 2-3 minutes, then visit your GitHub profile page to see your updated contri
 ## ❓ FAQ
 
 ### ⏰ How long does it take?
-- 200 commits ≈ 2-3 minutes
-- 500 commits ≈ 5-7 minutes
+- 200 commits ≈ 1 minute
+- 500 commits ≈ 3 minutes
 - Depends on your internet connection
 
 ### 🔄 Can I run it multiple times?
